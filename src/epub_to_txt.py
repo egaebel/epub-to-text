@@ -98,3 +98,4 @@ if __name__ == '__main__':
         file_dir=os.path.dirname(args.epub_file_path),
         output_file_dir=args.output_dir,
         chapter_files_dir=args.output_chapter_dir)
+    print("Done!")
