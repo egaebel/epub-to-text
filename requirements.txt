@@ -15,7 +15,7 @@ idna==2.6
 ipaddress==1.0.17
 keyring==10.6.0
 keyrings.alt==3.0
-lxml==4.2.1
+lxml==4.6.2
 matplotlib==2.1.1
 numpy==1.13.3
 olefile==0.45.1
